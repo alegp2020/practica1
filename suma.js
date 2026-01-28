@@ -14,3 +14,7 @@ console.log("esta es la divison: " , division);
 
 let multiplicacion = n1 * n2;
 console.log("esta es al multiplicacion: " , multiplicacion);
+
+if(suma > 100){
+    console.log("la suma es mayor que 100");
+}
