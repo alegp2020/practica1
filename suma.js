@@ -15,10 +15,7 @@ console.log("esta es la divison: " , division);
 let multiplicacion = n1 * n2;
 console.log("esta es al multiplicacion: " , multiplicacion);
 
+
 if(suma > 100){
     console.log("la suma es mayor que 100");
-}else if ( suma < 100){
-    console.log("la suma es menor que 100");
-}else{
-    console.log("la suma es excatamente igual a 100");
 }
