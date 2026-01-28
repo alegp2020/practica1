@@ -18,4 +18,6 @@ console.log("esta es al multiplicacion: " , multiplicacion);
 
 if(suma > 100){
     console.log("la suma es mayor que 100");
+}else if ( suma < 100){
+    console.log("la suma es menor que 100");
 }
