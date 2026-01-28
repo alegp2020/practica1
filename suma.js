@@ -19,4 +19,6 @@ if(suma > 100){
     console.log("la suma es mayor que 100");
 }else if ( suma < 100){
     console.log("la suma es menor que 100");
+}else{
+    console.log("la suma es excatamente igual a 100");
 }
