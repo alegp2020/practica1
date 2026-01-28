@@ -8,3 +8,6 @@ console.log("Este es el cambio que he hecho", n1 + n2);
 
 let resta = n1 - n2;
 console.log("resta: ", resta);
+
+let division = n1 /n2;
+console.log("esta es la divison: " , division);
